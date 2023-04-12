@@ -163,6 +163,6 @@ int main()
 
     //reset device
     cudaDeviceReset();
-    return 0;
+    return 0; 
 
 }
